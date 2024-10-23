@@ -67,7 +67,7 @@ blocks:
     alias: ''
     begin_tag: pmt.PMT_NIL
     comment: ''
-    file: /home/lcy13vv/School/Capstone/Key Fobs/ChevySonic2013.dat
+    file: example.dat
     length: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
