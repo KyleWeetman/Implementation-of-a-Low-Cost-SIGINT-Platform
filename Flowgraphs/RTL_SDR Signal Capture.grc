@@ -89,7 +89,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/lcy13vv/Captured Signals/Key Fobs/example.dat
+    file: example.dat
     type: complex
     unbuffered: 'False'
     vlen: '1'
